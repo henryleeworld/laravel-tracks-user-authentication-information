@@ -1,4 +1,4 @@
-# Laravel 8 追蹤使用者認證資訊
+# Laravel 10 追蹤使用者認證資訊
 
 引入 rappasoft 的 laravel-authentication-log 套件來擴增追蹤使用者認證資訊，例如登入／登出時間、IP 位址、瀏覽器、位置等，並通過郵件、slack 或簡短訊息服務發送新裝置和登入失敗的通知。
 
@@ -27,5 +27,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/YojqWNb.png)
+![](https://i.imgur.com/SaCyEdW.png)
 > 紀錄使用者認證資訊
